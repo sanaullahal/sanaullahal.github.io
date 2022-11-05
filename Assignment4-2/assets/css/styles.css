@@ -1,0 +1,75 @@
+.nav-item {
+  border-right: 1px solid rgb(243,236,236);
+}
+
+.nav-item.last {
+  border-right: none;
+}
+
+.btn.btn-light.action-button {
+  border-radius: 4px;
+}
+
+.hello {
+  color: white;
+  padding-right: 4px;
+}
+
+.first {
+  margin-top: 19px;
+  margin-left: 20px;
+}
+
+.first h1 {
+  color: gray;
+  font-size: 22px;
+}
+
+.form-control {
+  margin-bottom: 25px;
+}
+
+.maindiv1 {
+  margin-left: 20px;
+}
+
+.selectclass {
+  width: 100%;
+  margin-bottom: 44px;
+}
+
+.date {
+  width: 100%;
+}
+
+.datepara {
+  font-size: 10px;
+  color: gray;
+  margin-bottom: 80px;
+}
+
+.btn-group, .btn-group-vertical {
+  float: right;
+}
+
+.btnclass {
+  margin-right: 10px;
+  background-color: white;
+  color: black;
+}
+
+.btnclass1 {
+  border-color: blue;
+  color: blue;
+}
+
+.btnclass2 {
+  border-color: red;
+  color: red;
+}
+
+.btnclass3 {
+  border-color: green;
+  color: green;
+}
+

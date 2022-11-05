@@ -1,0 +1,65 @@
+body{
+    margin: 20px;
+}
+
+.emailaddress{
+    color: rgb(93, 184, 184);
+}
+
+label{
+    font-size:x-large;
+}
+
+input{
+    font-size: large;
+}
+
+input.submit{
+    background-color: #7baee4;
+    font-size: 18px;
+    border-radius:8px;
+    margin-top: 0 auto;
+    
+}
+
+#header{
+    background-color: rgb(4, 172, 172);
+    height: 50px;
+    width: 100%;
+    padding: auto;
+    
+    top:0;
+    left: 0;
+    position: fixed;
+}
+
+#header, span{
+    text-align:left;
+    color: aliceblue;
+    
+}
+
+span{
+    margin-left: 50px;
+    margin-top: 30px;
+    text-align: center;
+    padding-left: 30px;
+    border-right: 3px solid orange;
+    height: 50px;
+    ;
+}
+
+#header a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-right: 2px solid rgb(167, 164, 164);
+    
+  }
+
+  .topnav-right{
+      float: right;
+  }

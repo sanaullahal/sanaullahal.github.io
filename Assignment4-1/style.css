@@ -1,0 +1,23 @@
+body{
+    margin: 20px;
+}
+
+.emailaddress{
+    color: rgb(93, 184, 184);
+}
+
+label{
+    font-size:x-large;
+}
+
+input{
+    font-size: large;
+}
+
+input.submit{
+    background-color: #7baee4;
+    font-size: 40px;
+    border-radius:8px;
+    margin-top: 5px;
+}
+
